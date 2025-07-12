@@ -544,13 +544,15 @@ footer{
         font-size:1.25rem;
     }
     .hero-section {
-        height: 55vh;
-        background-position: center;
+        height: 100vh;
+        background-position: center top 60%;
     }
     .hero-content{
-    margin: 0 auto;
-    padding: 0;
-    min-height: 50vh;
+        margin: 0 auto;
+        padding: 8rem;
+        min-height: 50vh;
+        text-align: center;
+
     }
 
     .welcome-header{
